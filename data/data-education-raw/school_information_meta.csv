@@ -1,0 +1,24 @@
+﻿Column,Field Name,Description
+1,LANAME,Local authority name
+2,LA,Local authority number
+3,ESTAB,Establishment number
+4,LAESTAB,DfE number
+5,SCHNAME,School name
+6,STREET,School address (1)
+7,LOCALITY,School address (2)
+8,ADDRESS3,School address (3)
+9,TOWN,School town
+10,POSTCODE,School postcode
+11,SCHSTATUS,School open / closed status
+12,OPENDATE,Open date of school (if opened on or after 12th September 2018)
+13,CLOSEDATE,Date the school closed
+14,MINORGROUP,Type of school / college eg maintained school
+15,SCHOOLTYPE,School Type eg Voluntary Aided school
+16,ISPRIMARY,"Does the school provide primary education? ( 0 = No, 1 = Yes)"
+17,ISSECONDARY,"Does the school provide secondary education? ( 0 = No, 1 = Yes)"
+18,ISPOST16,"Does the school provide post 16 education? (  0 = No, 1 = Yes)"
+19,AGELOW,Lowest age of entry
+20,AGEHIGH,Highest age of entry
+21,GENDER,Indicates whether it's a mixed or single sex school
+22,RELCHAR,Religious character
+23,ADMPOL,Admissions Policy
